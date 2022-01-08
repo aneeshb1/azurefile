@@ -3,3 +3,5 @@ git is used to store the store
 i am dev2,commiting my code
 
 this code is being added to check git pull
+
+Testing git fetch- This will reflect on your local machine only after merging
