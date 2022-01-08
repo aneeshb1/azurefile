@@ -1,3 +1,5 @@
 git is used to store the store
 
 i am dev2,commiting my code
+
+this code is being added to git pull
